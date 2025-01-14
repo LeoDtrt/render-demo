@@ -1,5 +1,4 @@
 dash
-docopt
 gunicorn
 pandas
 dash-tools
